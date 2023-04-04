@@ -1,0 +1,10 @@
+﻿body
+{
+    background-color: dodgerblue;
+    color:azure;
+    font-family: "Rubik", sans-serif;
+}
+nav{
+    display:flex;
+    width:100%
+}
